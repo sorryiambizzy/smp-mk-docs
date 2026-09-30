@@ -44,7 +44,7 @@ title: Вход в приложение. iOS
 
     Укажите логин и пароль пользователя и нажмите **Начать работу**.
 
-    ![Второй экран входа для 10.0](./authorization_iOS_2_14.png){width=139 height=300}
+    <image src="./authorization_iOS_2_14.png" alt="Второй экран входа для 10.0" scale="17.8"/>
 
 <note type="info">
 
