@@ -3,8 +3,6 @@ order: 1
 title: Вход в приложение. Android
 ---
 
-# Вход в приложение. Android
-
 [Для iOS](../how-to-use/authorization)
 
 - [Первый вход в приложение](./authorization-2#firstentry)
@@ -46,7 +44,7 @@ title: Вход в приложение. Android
 
     Укажите логин и пароль пользователя и нажмите **Начать работу**.
 
-    ![Второн экран входа для 10.0](./authorization_A_2_10.png)
+    ![Второн экран входа для 10.0](./authorization_A_2_10.png){width=142 height=300}
 
 <note type="info">
 

@@ -3,8 +3,6 @@ order: 7
 title: Действия. iOS
 ---
 
-# Действия. iOS
-
 [Для Android](../../how-to-use-2/actions-2)
 
 - [Добавить. iOS](./add)

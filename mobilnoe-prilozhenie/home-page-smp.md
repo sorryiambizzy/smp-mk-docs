@@ -3,8 +3,6 @@ order: 6
 title: Вся документация SMP и DAP
 ---
 
-# Вся документация SMP и DAP
-
 [SMPДокументация платформы SMP](https://www.naumen.ru/docs/sd/nsmp/Content/Naumen_SMP.htm)
 
 [Быстрый стартКраткое описание SMP. Реализация процессов](https://www.naumen.ru/docs/sd/bestpractices/Content/smp_quick/main.htm)
