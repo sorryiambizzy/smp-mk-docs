@@ -18,7 +18,9 @@ title: Поддержка. iOS
     ![Меню мобильного приложения](../menu_iOS_10.png)
 - Первый и второй экраны входа → иконка ![](../../../how-to-use-2/navigation-2/settings-2/support.png) → экран "Поддержка".
 
-    ![Первый экран входа ](./authorization_iOS_1_16.PNG) ![Второй экран входа ](./authorization_iOS_2_16.PNG)
+    ![Первый экран входа ](./authorization_iOS_1_16.PNG)
+
+    ![Второй экран входа ](./authorization_iOS_2_16.PNG)
 
 #### Содержание экрана
 
