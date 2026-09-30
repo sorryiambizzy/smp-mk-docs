@@ -1,6 +1,8 @@
 ---
 order: 6
 title: Комментарии. iOS
+aliases:
+  - mobilnoe-prilozhenie/how-to-use/comments/comment-reply
 ---
 
 [Для Android](../../how-to-use-2/comments-2)
