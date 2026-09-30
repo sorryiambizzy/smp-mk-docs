@@ -7,3 +7,5 @@ name: smp-mk
 style: purple-blue
 code: "MK"
 filterProperties: []
+versions:
+  - "[0-9]*"
