@@ -3,8 +3,6 @@ order: 8
 title: Локализация
 ---
 
-# Локализация
-
 - [Локализация интерфейса](./localization#localization)
 - [Локализация интерфейса](./localization#localization_mob)
 - [Изменение языка интерфейса](./localization#language_selection)

@@ -3,8 +3,6 @@ order: 2
 title: Настройки. Android
 ---
 
-# Настройки. Android
-
 [Для iOS](../../../how-to-use/navigation/settings)
 
 - [Аккаунты. Android](./accounts-2)

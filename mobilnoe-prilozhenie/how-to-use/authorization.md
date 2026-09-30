@@ -3,8 +3,6 @@ order: 1
 title: Вход в приложение. iOS
 ---
 
-# Вход в приложение. iOS
-
 [Для Android](../how-to-use-2/authorization-2)
 
 - [Первый вход в приложение](./authorization#firstentry)
