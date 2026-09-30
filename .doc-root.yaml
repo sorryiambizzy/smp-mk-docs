@@ -8,4 +8,4 @@ style: purple-blue
 code: "MK"
 filterProperties: []
 versions:
-  - "[0-9]*"
+  - tags/*
