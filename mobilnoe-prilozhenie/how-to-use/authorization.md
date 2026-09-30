@@ -3,8 +3,6 @@ order: 1
 title: Вход в приложение. iOS
 ---
 
-# Вход в приложение. iOS
-
 [Для Android](../how-to-use-2/authorization-2)
 
 - [Первый вход в приложение](./authorization#firstentry)
@@ -46,7 +44,7 @@ title: Вход в приложение. iOS
 
     Укажите логин и пароль пользователя и нажмите **Начать работу**.
 
-    ![Второй экран входа для 10.0](./authorization_iOS_2_14.png)
+    ![Второй экран входа для 10.0](./authorization_iOS_2_14.png){width=139 height=300}
 
 <note type="info">
 
