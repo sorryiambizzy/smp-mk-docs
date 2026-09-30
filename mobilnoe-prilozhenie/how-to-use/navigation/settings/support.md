@@ -13,12 +13,12 @@ title: Поддержка. iOS
 
 - Меню мобильного приложения "Поддержка" → экран "Поддержка".
 
-    ![Меню мобильного приложения](./menu_iOS_10.PNG){width=138 height=300}
+    <image src="./menu_iOS_10.PNG" alt="Меню мобильного приложения" scale="17.7"/>
 - Первый и второй экраны входа → иконка ![](../../../how-to-use-2/navigation-2/settings-2/support.png){width=16 height=18} → экран "Поддержка".
 
-    ![Первый экран входа ](./authorization_iOS_1_16.PNG){width=138 height=300}
+    <image src="./authorization_iOS_1_16.PNG" alt="Первый экран входа " scale="17.7"/>
 
-    ![Второй экран входа ](./authorization_iOS_2_16.PNG){width=138 height=300}
+    <image src="./authorization_iOS_2_16.PNG" alt="Второй экран входа " scale="17.7"/>
 
 #### Содержание экрана
 
@@ -27,4 +27,4 @@ title: Поддержка. iOS
 - плашка "Обратная связь" — ссылка на форму обратной связи;
 - плашка "Оцените приложение" — ссылка для перехода в магазин приложений.
 
-![Экран "Поддержка"](./use_support_iOS_2.PNG){width=138 height=300}
+<image src="./use_support_iOS_2.PNG" alt="Экран «Поддержка»" scale="17.7"/>

@@ -44,7 +44,7 @@ title: Вход в приложение. Android
 
     Укажите логин и пароль пользователя и нажмите **Начать работу**.
 
-    ![Второн экран входа для 10.0](./authorization_A_2_10.png){width=142 height=300}
+    <image src="./authorization_A_2_10.png" alt="Второн экран входа для 10.0" scale="18.2"/>
 
 <note type="info">
 
