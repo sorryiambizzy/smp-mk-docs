@@ -52,7 +52,7 @@ title: Офлайн-режим. Android
 
 #### Расширенный офлайн-режим
 
-Расширенный офлайн-режим включается в конфигурационном файле dbaccess.properties (параметр ru.naumen.mobile.rest.isExtendedCacheEnabled, подраздел [Настройки расширенного офлайн-режима](../how-to-configure/dbaccess-properties)).
+Расширенный офлайн-режим включается в конфигурационном файле dbaccess.properties (параметр ru.naumen.mobile.rest.isExtendedCacheEnabled, подраздел [Настройки расширенного офлайн-режима](../how-to-configure/dbaccess-properties#ofline)).
 
 В расширенном офлайн-режиме доступны следующие действия:
 
